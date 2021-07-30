@@ -1,0 +1,3 @@
+﻿CREATE LOGIN [evo_user]
+    WITH PASSWORD = N'xQ7|kr{bzirH|awlz|lfdvbimsFT7_&#$!~<qiOrx0{}xmqw', SID = 0x0DF57A37B4A5B144B1C47C017BEB2310, DEFAULT_DATABASE = [EvoBPM_DB], DEFAULT_LANGUAGE = [us_english], CHECK_POLICY = OFF;
+
